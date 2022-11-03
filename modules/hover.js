@@ -1,3 +1,4 @@
+
 function hoverHeader() {
   const header = document.querySelector('.header');
   const modal = document.getElementById('myModal');
@@ -14,3 +15,4 @@ function hoverHeader() {
     }
   });
 }
+export {hoverHeader}
